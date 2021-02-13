@@ -17,3 +17,7 @@ rust-totp --digest <digest> --digits <digits> --secret <secret> --offset <time-o
 # test
 just test
 ```
+
+## Article
+
+https://zenn.dev/ulwlu/articles/3096c221d31493
