@@ -1,0 +1,14 @@
+[package]
+name = "rust-totp"
+version = "0.1.0"
+authors = ["ulwlu <ooulwluoo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+byteorder = "1"
+clap = "2.33"
+hmac = "0.10.1"
+hmac-sha1 = "^0.1"
+sha1 = "0.2.0"
+sha2 = "0.9.3"
+structopt = "0.3"
